@@ -1,0 +1,12 @@
+.bg-primary {
+    background-color: rgba(0,46,102,1)!important;
+}
+
+.text-primary{
+	color: rgba(0,46,102,1)!important;
+}
+
+.list-social-icons a:hover {
+  color: rgba(0,46,102,1)!important;
+}
+
